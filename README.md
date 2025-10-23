@@ -1,16 +1,30 @@
-## Hi there 👋
+# Developer
 
-<!--
-**slasher403/slasher403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=slasher403&color=blueviolet&style=flat)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slasher403&show_icons=true&theme=dark)
+
+---
+
+### 🔥 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slasher403&layout=compact&theme=dark)
+
+---
+
+### 💻 Tecnologias que uso
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,flutter,css,linux,nginx,mysql,raspberrypi,vscode,docker" />
+</p>
+
+---
+
+### 🌸
+![Anime Banner](https://i.imgur.com/TuGQv8O.gif)
+
+---
+
+### 💬 Fale comigo
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SEULINK)
