@@ -16,12 +16,12 @@
 
 ### 💻 Tecnologias que uso
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,flutter,css,linux,nginx,mysql,raspberrypi,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=php,python,css,sql,vscode,java" />
 </p>
 
 ---
 
-### 🌸
+### 🗡️
 ![Anime Banner](https://i.imgur.com/TuGQv8O.gif)
 
 ---
