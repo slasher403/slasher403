@@ -16,7 +16,7 @@
 
 ### 💻 Tecnologias que uso
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,css,sql,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,css,sql,vscode" />
 </p>
 
 ---
