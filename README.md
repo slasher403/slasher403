@@ -22,7 +22,7 @@
 ---
 
 ### 🗡️
-![Anime Banner](https://i.imgur.com/TuGQv8O.gif)
+![Anime Banner]([https://i.imgur.com/TuGQv8O.gif](https://imgur.com/gallery/when-she-mentions-only-boning-guys-with-good-taste-memes-0Rz7Bpb))
 
 ---
 
